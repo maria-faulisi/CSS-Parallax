@@ -7,4 +7,4 @@ Responsive website using CSS to mimic a Parallax effect
 * Picturefill.js
 * media-queries
 
-[See it here](www.iam.colum.edu/students/maria.faulisi/ewt/scrolly/)
+[See it here](http://www.iam.colum.edu/students/maria.faulisi/ewt/scrolly/)
