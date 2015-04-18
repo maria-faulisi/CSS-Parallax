@@ -1,2 +1,8 @@
 # CSS-Parallax
-Website using CSS to mimic a Parallax effect
+Responsive website using CSS to mimic a Parallax effect
+
+###Web tech used
+* Sass
+* Waypoints.js
+* Picturefill.js
+* media-queries
