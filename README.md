@@ -6,3 +6,5 @@ Responsive website using CSS to mimic a Parallax effect
 * Waypoints.js
 * Picturefill.js
 * media-queries
+
+[See it here](www.iam.colum.edu/students/maria.faulisi/ewt/scrolly/)
